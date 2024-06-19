@@ -16,8 +16,8 @@
 **Form:** Lean forward to engage the chest muscles more effectively. Keep your elbows slightly flared and lower yourself until your upper arms are parallel to the ground before pushing back up.<br>
 **Focus:** Lower chest.<br>
  
-## Standing Cable Chest Fly:<br>
+## Standing Cable Chest Fly:
 **Sets:** 3<br>
 **Reps:** 20<br>
-**Form:** Stand with a slight forward lean, arms extended but slightly bent, and bring the cables together in a wide arc, squeezing your chest at the peak contraction. Return to the starting position with control.
-**Focus:** Chest isolation for endurance and hypertrophy.
+**Form:** Stand with a slight forward lean, arms extended but slightly bent, and bring the cables together in a wide arc, squeezing your chest at the peak contraction. Return to the starting position with control.<br>
+**Focus:** Chest isolation for endurance and hypertrophy.<br>
