@@ -1,4 +1,5 @@
-**Bench Press:**<br>
+```
+**Bench Press:**
 Sets: 3
 Reps: 5
 Form: Keep your feet flat on the ground, arch your lower back slightly, and ensure the bar touches your chest at the bottom of the movement. Maintain control throughout the lift.
@@ -23,3 +24,4 @@ Sets: 3
 Reps: 20
 Form: Stand with a slight forward lean, arms extended but slightly bent, and bring the cables together in a wide arc, squeezing your chest at the peak contraction. Return to the starting position with control.
 Focus: Chest isolation for endurance and hypertrophy.
+```
