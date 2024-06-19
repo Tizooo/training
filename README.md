@@ -1,3 +1,3 @@
 # training
-hi  
-how
+## Monday
+[Chest](relative/path/to/your/file)
