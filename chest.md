@@ -1,4 +1,4 @@
-**Bench Press:**
+**Bench Press:**<br>
 Sets: 3
 Reps: 5
 Form: Keep your feet flat on the ground, arch your lower back slightly, and ensure the bar touches your chest at the bottom of the movement. Maintain control throughout the lift.
