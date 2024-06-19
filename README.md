@@ -1,3 +1,3 @@
 # training
 ## Monday
-[Chest](relative/path/to/your/file)
+[Chest](muscle groups/chest.md)
