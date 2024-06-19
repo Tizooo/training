@@ -3,8 +3,8 @@
 **Reps:** 5<br>
 **Form:** Keep your feet flat on the ground, arch your lower back slightly, and ensure the bar touches your chest at the bottom of the movement. Maintain control throughout the lift.<br>
 **Focus:** overall chest.<br>
- 
-## Incline Dumbbell Press:
+
+## Incline Dumbbell Press:<br>
 **Sets:** 3<br>
 **Reps:** 8<br>
 **Form:** Set the bench to an incline of 20–30°. Lower the dumbbells to chest level with elbows at a 90-degree angle, and press them up until your arms are fully extended. Ensure a full range of motion. Using dumbbells can provide a greater range of motion and better muscle activation compared to a barbell.<br>
