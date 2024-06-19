@@ -19,5 +19,5 @@
 ## Standing Cable Chest Fly:<br>
 **Sets:** 3<br>
 **Reps:** 20<br>
-**Form:** Stand with a slight forward lean, arms extended but slightly bent, and bring the cables together in a wide arc, squeezing your chest at the peak contraction. Return to the starting position with control.<br>
-**Focus:** Chest isolation for endurance and hypertrophy.<br>
+**Form:** Stand with a slight forward lean, arms extended but slightly bent, and bring the cables together in a wide arc, squeezing your chest at the peak contraction. Return to the starting position with control.
+**Focus:** Chest isolation for endurance and hypertrophy.
