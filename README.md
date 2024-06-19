@@ -1,3 +1,3 @@
 # training
 ## Monday
-[Chest](muscle groups/chest.md)
+[Chest](muscle-groups/chest.md)
