@@ -22,6 +22,6 @@
 ## Standing High to Low Cable Chest Fly:
 **Sets:** 3<br>
 **Reps:** 20<br>
-**Current Weight:** Unkownkg<br>
+**Current Weight:** 5kg<br>
 **Form:** Stand with a slight forward lean, arms extended but slightly bent, and bring the cables together in a wide arc, squeezing your chest at the peak contraction. Return to the starting position with control.<br>
 **Focus:** Chest isolation for endurance and hypertrophy.<br>
