@@ -1,9 +1,10 @@
 # Training
 
 ## Monday
-[Chest](muscle-groups/chest.md)
+[Chest](muscle-groups/chest.md), Triceps
 
 ## Tuesday
+-
 
 ## Wednesday
 
