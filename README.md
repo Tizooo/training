@@ -7,7 +7,7 @@
 Free
 
 ## Wednesday
-Free
+Back, Biceps
 
 ## Thursday
 Free
