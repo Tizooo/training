@@ -2,7 +2,6 @@
 
 ## Monday
 [Chest](muscle-groups/chest.md), Triceps
-test
 
 ## Tuesday
 
