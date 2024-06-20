@@ -1,0 +1,1 @@
+- The `Current weight` option does not include the barbell itself or other bars etc.
