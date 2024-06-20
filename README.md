@@ -1,7 +1,7 @@
 # Training
 
 ## Monday
-[Chest](muscle-groups/chest.md), [Triceps](muscle-groups/triceps.md), Shoulders
+[Chest](muscle-group-workouts/chest.md), [Triceps](muscle-group-workouts/triceps.md), Shoulders
 
 ## Tuesday
 Free
