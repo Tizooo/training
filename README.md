@@ -4,7 +4,6 @@
 [Chest](muscle-groups/chest.md), Triceps
 
 ## Tuesday
--
 
 ## Wednesday
 
