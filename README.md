@@ -13,7 +13,7 @@ Back, Biceps
 Free
 
 ## Friday
-Free
+Quads, Hamstrings, Calves
 
 ## Saturday
 Free
