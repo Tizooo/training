@@ -1,4 +1,4 @@
-## Bench Press:
+## Barbell Bench Press:
 **Sets:** 3<br>
 **Reps:** 5<br>
 **Current Weight:** 30kg<br>
