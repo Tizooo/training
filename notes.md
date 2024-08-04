@@ -1,1 +1,2 @@
 - The `Current weight` option does not include the barbell itself or other bars etc.
+- Rest ~3 minutes between each set.
